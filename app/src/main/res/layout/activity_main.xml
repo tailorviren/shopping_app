@@ -75,6 +75,7 @@
                 android:fontFamily="@font/trajanpro_regular"
                 android:background="@drawable/view_background"
                 android:textColor="@color/textColor"
+                android:inputType="textPassword"
                 android:layout_height="match_parent" />
         </com.google.android.material.textfield.TextInputLayout>
 
